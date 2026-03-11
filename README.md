@@ -9,4 +9,4 @@ This script is meant to be run from the command line and/or CRON and should not 
 php /home/<cpanel_username>/backup_db.php
 ```
 
-<img title="Cron Example" alt="Cron Example" src="cron.png">
+<img title="Cron Example" alt="Cron Example" src="docs/images/cron.png">
