@@ -6,7 +6,7 @@ This script is meant to be run from the command line and/or CRON and should not 
 2. Edit configuration values at the top of backup_db.php and place in the root of the users home directory
 3. (Optional) Setup CRON to run at interval desired 
 ```
-php /home/<whm_username>/backup_db.php
+php /home/<cpanel_username>/backup_db.php
 ```
 
 <img title="Cron Example" alt="Cron Example" src="cron.png">
